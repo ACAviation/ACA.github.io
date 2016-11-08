@@ -1,4 +1,4 @@
-*Please refer to this repository [ac-aviation.github.io wiki](https://github.com/ACAviation/ac-aviation.github.io/wiki) for assistance.*  Only :gb is available at this moment.
+*Please refer to this repository [ac-aviation.github.io wiki](https://github.com/ACAviation/ac-aviation.github.io/wiki) for assistance.*
 
 # CAAT AOC-R Task List by Chapter
 - [x] [Chapter 1: Application for Air Operator Certification] (/Chapter1/Chapter1.md)
