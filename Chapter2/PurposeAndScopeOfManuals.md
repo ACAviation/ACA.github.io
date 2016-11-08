@@ -24,8 +24,8 @@
 
 1.12. The form and scope of manuals will vary considerably with the nature and complexity of the operator’s Organization and types of aircraft in use. An operations manual shall be organized with the following structure, as provided in ICAO Annex 6 Part I Appendix 2:
 
-  (a) General;
-  (b) Aircraft operating information;
-  (c) Areas, routes and aerodromes; and (d) Training
+> (a) General;
+> (b) Aircraft operating information;
+> (c) Areas, routes and aerodromes; and (d) Training
 
 Operations manuals and other standing instructions must be supplemented by a systematic procedure for bringing urgent or purely temporary information to the notice of operating staff and agents. This can be achieved by a numbered series of instructions or notices issued by or under the direct authority of a senior operations official. When the issue of a temporary instruction entails amendment of a standing instruction, the amendment must be made without undue delay and periodical check lists issued to show which of the temporary instructions are current. These instructions bring significant Aeronautical Information Circulars (AICs), NOTAMS, or changes in Aerodrome Operating Minima (AOM) for example, to the attention of crews, operating staff and the operator’s agents.
