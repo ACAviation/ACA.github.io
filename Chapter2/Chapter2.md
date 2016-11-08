@@ -1,5 +1,5 @@
 # Chapter 2 - Operations Manual
-1. Purpose and Scope of Manuals
+1. [Purpose and Scope of Manuals](/PurposeAndScopeOfManuals.md)
 2. Crew to be carried
 3. Duties of Aircraft Crew and Other Operating Staff
 4. Fatigue Management of Crew
