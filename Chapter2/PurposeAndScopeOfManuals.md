@@ -1,4 +1,4 @@
-#1. PURPOSE AND SCOPE OF MANUALS
+##1. PURPOSE AND SCOPE OF MANUALS
 
 1.1. Pursuant to Thailand RCAB 85 paragraph 3 (15a) the operator shall ensure that an Operations manual containing information and instructions as may be necessary to enable the operating staff to perform their duties is provided to such staff. The design of these manuals shall observe human factors principles.
 
