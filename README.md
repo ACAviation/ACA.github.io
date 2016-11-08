@@ -1,4 +1,4 @@
-*Please refer to this repository [ac-aviation.github.io wiki](https://github.com/ACAviation/ac-aviation.github.io/wiki) for assistance.*
+*Please refer to this repository [ac-aviation.github.io wiki](https://github.com/ACAviation/ac-aviation.github.io/wiki) for assistance.*  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 # CAAT AOC-R Task List by Chapter
 - [x] [Chapter 1: Application for Air Operator Certification] (/Chapter1/Chapter1.md)
