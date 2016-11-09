@@ -1,6 +1,10 @@
 [![Stories in Ready](https://badge.waffle.io/ACAviation/ac-aviation.github.io.png?label=ready&title=Ready)](https://waffle.io/ACAviation/ac-aviation.github.io)
 *Please refer to this repository [ac-aviation.github.io wiki](https://github.com/ACAviation/ac-aviation.github.io/wiki) for assistance.*
 
+# About AC ac-aviation
+
+# Corporate policies
+
 # CAAT AOC-R Task List by Chapter
 - [x] [Introduction of Definitions](/Manuals/Introduction.md)
 - [x] [Chapter 1: Application for Air Operator Certification](/Manuals/Chapter1/Chapter1.md)
