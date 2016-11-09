@@ -1,5 +1,6 @@
 ## DEFINITIONS
 *EFFECTIVE DATE: 8 September 2016*
+
 Revision 1
 
 In this Requirement, unless the context otherwise requires -
@@ -20,24 +21,27 @@ in flight or on the ground, of passengers, crew, ground personnel or the general
 
 `“Aerodrome operating minima”` in relation to the operation of an aircraft at an aerodrome, means the limits of usability of an aerodrome for:
 
-  * (a) take-off, expressed in terms of runway visual range or visibility, or both, and cloud conditions where necessary;
+  (a) take-off, expressed in terms of runway visual range or visibility, or both, and cloud conditions where necessary;
 
-  * (b) landing in 2D instrument approach operations, expressed in terms of visibility or runway visual range, or both, minimum descent altitude/height (MDA/H) and, if necessary, cloud conditions; and
+  (b) landing in 2D instrument approach operations, expressed in terms of visibility or runway visual range, or both, minimum descent altitude/height (MDA/H) and, if necessary, cloud conditions; and
 
-  * (c) landing in 3D instrument approach operations, expressed in terms of visibility and/or runway visual range and decision altitude/height (DA/H) as appropriate to the type or category of operations, or both.
+  (c) landing in 3D instrument approach operations, expressed in terms of visibility and/or runway visual range and decision altitude/height (DA/H) as appropriate to the type or category of operations, or both.
 
 `“Alternate aerodrome”` means an aerodrome to which an aircraft may proceed when it becomes either impossible or inadvisable to proceed to, or to land at, the aerodrome of intended landing and which meets all of the following requirements:
-  * (a) the necessary services and facilities are available;
-  * (b) the aircraft performance requirements can be met;
-  * (c) the aerodrome is operational at the expected time of use. Alternate aerodromes include the
-following:
-  : “Take-off alternate” means an alternate aerodrome at which an aircraft would be able to land should this become necessary shortly after take-off and it is not possible to use the aerodrome of departure.
 
-  : “En-route alternate” means an alternate aerodrome at which an aircraft would be able to land in the event that a diversion becomes necessary while en route.
+  (a) the necessary services and facilities are available;
 
-  : “Destination alternate” means an alternate aerodrome at which an aircraft would be able to land should it become either impossible or inadvisable to land at the aerodrome of intended landing.
+  (b) the aircraft performance requirements can be met;
 
-  :Note. — The aerodrome from which a flight departs may also be an en route or a destination alternate aerodrome for that flight.
+  (c) the aerodrome is operational at the expected time of use. Alternate aerodromes include the following:
+
+      “Take-off alternate” means an alternate aerodrome at which an aircraft would be able to land should this become necessary shortly after take-off and it is not possible to use the aerodrome of departure.
+
+      “En-route alternate” means an alternate aerodrome at which an aircraft would be able to land in the event that a diversion becomes necessary while en route.
+
+      “Destination alternate” means an alternate aerodrome at which an aircraft would be able to land should it become either impossible or inadvisable to land at the aerodrome of intended landing.
+
+      Note. — The aerodrome from which a flight departs may also be an en route or a destination alternate aerodrome for that flight.
 
 `“Altimetry system error (ASE)”` means the difference between the altitude indicated by the altimeter display, assuming a correct altimeter barometric setting, and the pressure altitude corresponding to the undisturbed ambient pressure
 
@@ -76,8 +80,9 @@ Note. — On some aircraft there may be more than one equally critical engine. I
 `“Enhanced vision system (EVS)”` A system to display electronic real-time images of the external scene achieved through the use of image sensors.
 
 `“Emergency locator transmitter (ELT)”` means an emergency locator transmitter which -
-  * (a) broadcasts distinctive signals on designated frequencies and, depending on application, may either operate automatically following a crash or be manually activated; and
-  * (b) satisfies the requirements and operates in accordance with the provisions of Annex 10 to the Convention on International Civil Aviation and any amendment thereto as amended by the Council of the International Civil Aviation Organization and accepted by the Government.
+  (a) broadcasts distinctive signals on designated frequencies and, depending on application, may either operate automatically following a crash or be manually activated; and
+
+  (b) satisfies the requirements and operates in accordance with the provisions of Annex 10 to the Convention on International Civil Aviation and any amendment thereto as amended by the Council of the International Civil Aviation Organization and accepted by the Government.
 
 `“En route phase”` means that part of the flight from the end of the take-off and initial climb phase to the commencement of the approach and landing phase.
 
@@ -95,8 +100,9 @@ Note. — Where adequate obstacle clearance cannot be guaranteed visually, fligh
 
 `“Flight despatcher/flight operations officer”` means a suitably qualified person designated by the operator of the aircraft to provide —
 
-  * (a) briefing and/or assistance to the pilot-in-command in the safe conduct of the flight, including pre-flight preparation for the dispatch release; and
-  * (b) control and supervision of flight while acting as a close link between the aircraft in flight and the ground services, and between the flight crew and the operator’s ground staff.
+  (a) briefing and/or assistance to the pilot-in-command in the safe conduct of the flight, including pre-flight preparation for the dispatch release; and
+
+  (b) control and supervision of flight while acting as a close link between the aircraft in flight and the ground services, and between the flight crew and the operator’s ground staff.
 
 `“Flight manual”` means a manual, associated with the certificate of airworthiness, containing limitations within which the aircraft is to be considered airworthy, and instructions and information necessary to the flight crew members for the safe operation of the aircraft.
 
@@ -131,40 +137,43 @@ than air traffic services.
 
 `“Instrument approach operations”` means an approach and landing using instruments for navigation guidance based on an instrument approach procedure, executed either by a 2D or 3D instrument approach operation.
 
-  * (a) a two-dimensional (2D) instrument approach operation means an instrument approach operation using lateral navigation guidance only; and
-  * (b) a three-dimensional (3D) instrument approach operation means an instrument approach operation using both lateral and vertical navigation guidance.
+  (a) a two-dimensional (2D) instrument approach operation means an instrument approach operation using lateral navigation guidance only; and
+
+  (b) a three-dimensional (3D) instrument approach operation means an instrument approach operation using both lateral and vertical navigation guidance.
 
 Note. — Lateral and vertical navigation guidance refers to the guidance provided either by:
 
-  * (a) a ground-based radio navigation aid; or
-  * (b) computer-generated navigation data from ground-based, space based, self-contained navigation aids or a combination of these.
+  (a) a ground-based radio navigation aid; or
+
+  (b) computer-generated navigation data from ground-based, space based, self-contained navigation aids or a combination of these.
 
 `“Instrument approach procedure (IAP)”` means a series of predetermined manoeuvres by reference to flight instruments with specified protection from obstacles from
 
-  * (a) the initial approach fix; or
-  * (b) the beginning of a defined arrival route, where applicable to a point from which a landing can be completed and thereafter, if a landing is not completed, to a position at which holding or en-route obstacle clearance criteria apply.
+  (a) the initial approach fix; or
+
+  (b) the beginning of a defined arrival route, where applicable to a point from which a landing can be completed and thereafter, if a landing is not completed, to a position at which holding or en-route obstacle clearance criteria apply.
 
   Instrument approach procedures are classified as follows:
 
-  * (a) “Non-precision approach (NPA) procedure”. An instrument approach procedure designed for 2D instrument approach operations Type A.
+  (a) “Non-precision approach (NPA) procedure”. An instrument approach procedure designed for 2D instrument approach operations Type A.
 
-  * Note: Non-precision approach procedures may be flown using a continuous descent final approach (CDFA) technique. CDFA with advisory VNAV guidance calculated by on- board equipment (see PANS-OPS (Doc 8168), Volume I, Part I, Section 4, Chapter 1, paragraph 1.8.1) are considered 3D instrument approach operations. CDFA with manual calculation of the required rate of descent are considered 2D instrument approach operations. For more information on CDFA refer to PANS-OPS (Doc 8168), Volume I, Section 1.7 and 1.8.
+    Note: Non-precision approach procedures may be flown using a continuous descent final approach (CDFA) technique. CDFA with advisory VNAV guidance calculated by on- board equipment (see PANS-OPS (Doc 8168), Volume I, Part I, Section 4, Chapter 1, paragraph 1.8.1) are considered 3D instrument approach operations. CDFA with manual calculation of the required rate of descent are considered 2D instrument approach operations. For more information on CDFA refer to PANS-OPS (Doc 8168), Volume I, Section 1.7 and 1.8.
 
-  * (b) “Approach procedure with vertical guidance (APV)”. A performance-based navigation (PBN) instrument approach procedure designed for 3D instrument approach operations Type A.
+  (b) “Approach procedure with vertical guidance (APV)”. A performance-based navigation (PBN) instrument approach procedure designed for 3D instrument approach operations Type A.
 
-  * (c) “Precision approach (PA) procedure”. An instrument approach procedure based on navigation systems (ILS, MLS, GLS and SBAS CAT I) designed for 3D instrument approach operations Type A or B.
+  (c) “Precision approach (PA) procedure”. An instrument approach procedure based on navigation systems (ILS, MLS, GLS and SBAS CAT I) designed for 3D instrument approach operations Type A or B.
 
-Note: meteorological conditions (IMC)” means meteorological conditions expressed in terms of visibility idistance from cloud, and ceiling, less the minima specified for visual meteorological conditions.
+    Note: meteorological conditions (IMC)” means meteorological conditions expressed in terms of visibility idistance from cloud, and ceiling, less the minima specified for visual meteorological conditions.
 
 `“Isolated aerodrome”` means a destination aerodrome for which there is no destination alternate aerodrome suitable for a given aeroplane type.
 
 `“Maintenance”` means the performance of tasks required to ensure the continued airworthiness of an aircraft, including any one, or combination of, the following:
 
-  * (a) overhaul;
-  * (b) inspection;
-  * (c) replacement;
-  * (d) defect rectification; and
-  * (e) the embodiment of a modification or repair;
+  (a) overhaul;
+  (b) inspection;
+  (c) replacement;
+  (d) defect rectification; and
+  (e) the embodiment of a modification or repair;
 
 `“Maintenance programme”` means the maintenance schedule and related procedures, such as a reliability programme, necessary for the safe operation of those aircraft to which it applies.
 
@@ -228,8 +237,8 @@ Note. Performance requirements are expressed in navigation specifications (RNAV 
 
 Note. — The Standard Atmosphere as defined in ICAO Annex 8 means:
 
-  * (a) the air is a perfect dry gas;
-  * (b) the physical constants are:
+  (a) the air is a perfect dry gas;
+  (b) the physical constants are:
     — Sea level mean molar mass:
       M0 = 28.964420×10-3 kg mol-1
     — Sea level atmospheric pressure: P0 = 1013.250 hPa — Sea level temperature:
