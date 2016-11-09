@@ -1,9 +1,9 @@
 [![Stories in Ready](https://badge.waffle.io/ACAviation/ac-aviation.github.io.png?label=ready&title=Ready)](https://waffle.io/ACAviation/ac-aviation.github.io)
 *Please refer to this repository [ac-aviation.github.io wiki](https://github.com/ACAviation/ac-aviation.github.io/wiki) for assistance.*
 
-# About AC ac-aviation
+# [About AC ac-aviation](/About/About.md)
 
-# Corporate policies
+# [Corporate policies](/CorporatePolicies/CorporatePolicies.md)
 
 # CAAT AOC-R Task List by Chapter
 - [x] [Introduction of Definitions](/Manuals/Introduction.md)
