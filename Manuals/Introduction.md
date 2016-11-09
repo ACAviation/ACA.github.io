@@ -35,13 +35,13 @@ in flight or on the ground, of passengers, crew, ground personnel or the general
 
   (c) the aerodrome is operational at the expected time of use. Alternate aerodromes include the following:
 
-      “Take-off alternate” means an alternate aerodrome at which an aircraft would be able to land should this become necessary shortly after take-off and it is not possible to use the aerodrome of departure.
+    “Take-off alternate” means an alternate aerodrome at which an aircraft would be able to land should this become necessary shortly after take-off and it is not possible to use the aerodrome of departure.
 
-      “En-route alternate” means an alternate aerodrome at which an aircraft would be able to land in the event that a diversion becomes necessary while en route.
+    “En-route alternate” means an alternate aerodrome at which an aircraft would be able to land in the event that a diversion becomes necessary while en route.
 
-      “Destination alternate” means an alternate aerodrome at which an aircraft would be able to land should it become either impossible or inadvisable to land at the aerodrome of intended landing.
+    “Destination alternate” means an alternate aerodrome at which an aircraft would be able to land should it become either impossible or inadvisable to land at the aerodrome of intended landing.
 
-      Note. — The aerodrome from which a flight departs may also be an en route or a destination alternate aerodrome for that flight.
+    Note. — The aerodrome from which a flight departs may also be an en route or a destination alternate aerodrome for that flight.
 
 `“Altimetry system error (ASE)”` means the difference between the altitude indicated by the altimeter display, assuming a correct altimeter barometric setting, and the pressure altitude corresponding to the undisturbed ambient pressure
 
