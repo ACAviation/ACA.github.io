@@ -20,16 +20,16 @@ in flight or on the ground, of passengers, crew, ground personnel or the general
 
 `“Aerodrome operating minima”` in relation to the operation of an aircraft at an aerodrome, means the limits of usability of an aerodrome for:
 
-  * (a) take-off, expressed in terms of runway visual range or visibility, or both, and cloud conditions where necessary;
+   (a) take-off, expressed in terms of runway visual range or visibility, or both, and cloud conditions where necessary;
 
-  * (b) landing in 2D instrument approach operations, expressed in terms of visibility or runway visual range, or both, minimum descent altitude/height (MDA/H) and, if necessary, cloud conditions; and
+   (b) landing in 2D instrument approach operations, expressed in terms of visibility or runway visual range, or both, minimum descent altitude/height (MDA/H) and, if necessary, cloud conditions; and
 
-  * (c) landing in 3D instrument approach operations, expressed in terms of visibility and/or runway visual range and decision altitude/height (DA/H) as appropriate to the type or category of operations, or both.
+   (c) landing in 3D instrument approach operations, expressed in terms of visibility and/or runway visual range and decision altitude/height (DA/H) as appropriate to the type or category of operations, or both.
 
 `“Alternate aerodrome”` means an aerodrome to which an aircraft may proceed when it becomes either impossible or inadvisable to proceed to, or to land at, the aerodrome of intended landing and which meets all of the following requirements:
-  * (a) the necessary services and facilities are available;
-  * (b) the aircraft performance requirements can be met;
-  * (c) the aerodrome is operational at the expected time of use. Alternate aerodromes include the
+   (a) the necessary services and facilities are available;
+   (b) the aircraft performance requirements can be met;
+   (c) the aerodrome is operational at the expected time of use. Alternate aerodromes include the
 following:
   : “Take-off alternate” means an alternate aerodrome at which an aircraft would be able to land should this become necessary shortly after take-off and it is not possible to use the aerodrome of departure.
 
